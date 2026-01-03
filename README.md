@@ -42,4 +42,4 @@ Sistema de gestión de arriendo de películas desarrollado en C# con arquitectur
 
 ## 👤 Autor
 
-Martin
+Martin Ferrada
