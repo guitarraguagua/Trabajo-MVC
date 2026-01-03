@@ -1,0 +1,31 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userprefs
+
+# Visual Studio cache/options
+.vs/
+
+# NuGet
+*.nupkg
+*.nuget.props
+*.nuget.targets
+
+# Runtime configuration files
+runtimeconfig.json
+*.runtimeconfig.json
+*.deps.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local files
+*.local
